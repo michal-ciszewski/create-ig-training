@@ -1,0 +1,7 @@
+[{
+  "id" : "org.fhir.eu.mcis",
+  "type" : "ImplementationGuide",
+  "url" : "https://example.org/ig/mcis/ImplementationGuide/org.fhir.eu.mcis",
+  "version" : "0.1.0",
+  "name" : "ExampleIG"
+}]

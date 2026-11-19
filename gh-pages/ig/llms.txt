@@ -1,0 +1,16 @@
+# org.fhir.eu.mcis#0.1.0: IG Example
+
+## Pages
+
+* [Home](index.md)
+* [Implementation](implementation.md)
+* [About](about.md)
+* [Artifacts Summary](artifacts.md)
+* [Introduction](introduction.md)
+* [Functional](functional.md)
+
+## Resources
+
+### ImplementationGuides
+
+* [IG Example](index.md)
